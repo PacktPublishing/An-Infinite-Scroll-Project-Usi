@@ -1,0 +1,19 @@
+Editor
+
+http://brackets.io/
+
+Virtual host with PHP and Database
+
+https://www.apachefriends.org/index.html
+
+phpmyadmin
+
+http://localhost/phpmyadmin
+
+CDN libraries
+
+https://developers.google.com/speed/libraries/
+
+LoremIpsum Dummy text
+
+http://loripsum.net/
